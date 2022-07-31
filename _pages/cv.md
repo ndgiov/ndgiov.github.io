@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Last updated 07/31/22.
+
 <html>
   <body>
     <iframe src="/files/NikoleGiovannone_CV.pdf" width="100%" height="500px">

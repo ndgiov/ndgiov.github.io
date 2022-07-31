@@ -11,7 +11,7 @@ redirect_from:
 
 <html>
   <body>
-    <iframe src="https://github.com/ndgiov/ndgiov.github.io/blob/master/files/NikoleGiovannone_CV.pdf" width="100%" height="500px">
+    <iframe src="ndgiov.github.io/files/NikoleGiovannone_CV.pdf" width="100%" height="500px">
     </iframe>
   </body>
 </html>

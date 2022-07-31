@@ -10,11 +10,8 @@ redirect_from:
 {% include base_path %}
 
 <html>
-  <head>
-    <title>CV</title>
-  </head>
   <body>
-    <h1>PDF Example</h1>
-    <p>Open a PDF file <a href="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf">example</a>.</p>
+    <iframe src="https://github.com/ndgiov/ndgiov.github.io/blob/master/files/NikoleGiovannone_CV.pdf" width="100%" height="500px">
+    </iframe>
   </body>
 </html>

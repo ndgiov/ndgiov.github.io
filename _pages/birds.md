@@ -10,7 +10,7 @@ author_profile: true
 
 <html>
   <body>
-    <img src src="https://ndgiov.shinyapps.io/birds/" width="100%" height="1000px">
+    <img src="https://ndgiov.shinyapps.io/birds/" width="100%" height="1000px">
     </img>
   </body>
 </html>

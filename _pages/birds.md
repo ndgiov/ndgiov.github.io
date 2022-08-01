@@ -10,7 +10,7 @@ author_profile: true
 
 <html>
   <body>
-    <iframe src="https://ndgiov.shinyapps.io/birds/" width="100%" height="800px">
+    <iframe src="https://ndgiov.shinyapps.io/birds/" width="100%" height="900px">
     </iframe>
   </body>
 </html>

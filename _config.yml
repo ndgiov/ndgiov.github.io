@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -104,7 +104,7 @@ author:
   lastfm           :
   linkedin         :
   orcid            : 
-  osf              : "https://osf.io/62syw"
+  osf              : "62syw"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

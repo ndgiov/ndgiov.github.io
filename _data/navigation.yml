@@ -6,5 +6,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Resources"
+    url: /resources/
+    
   - title: "Birding"
     url: /birding/

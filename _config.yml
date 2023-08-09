@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nikole Giovannone"
+  name             : "Nikole Giovannone, Ph.D."
   avatar           : "NGphoto.png"
-  bio              : "Ph.D. Candidate in Speech, Language and Hearing Sciences at the University of Connecticut"
+  bio              : "Postdoctoral Researcher at Villanova University"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6GaSfv4AAAAJ&hl=en&oi=ao"
-  email            : nikole.giovannone@uconn.edu
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : nikole.giovannone@villanova.edu
+  researchgate     :  # example: "htts://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :

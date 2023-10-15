@@ -13,7 +13,7 @@ Last updated 10/14/23.
 
 <html>
   <body>
-    <iframe src="/files/NikoleGiovannone_CV.pdf" width="100%" height="800px">
+    <iframe src="/files/NikoleGiovannone_CV.pdf" width="100%" height="800px"> 
     </iframe>
   </body>
 </html> 
